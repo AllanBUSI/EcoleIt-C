@@ -5,4 +5,5 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(untitled main.c
         exercice_calculatrice.c
-        pascale.c)
+        pascale.c
+        morpion.c)
